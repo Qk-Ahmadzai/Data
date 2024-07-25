@@ -1,0 +1,24 @@
+﻿,,,Row Labels,Sum of Quantity,,,,Item Category,Stock,Price,,,SP,Stock,Price
+,,,Bamiyan PW,16350,,,,Lab/Equipment/ Reagent/Supply,10000,9800,,,AKHS,613016,76107.5
+,,,Ghazni PW,21,,,,Medical Supply,318291,222591.76,,,BARAN,2137529,123233.6
+,,,Ghor PW,19404,,,,Medicine ,7223715,462054.84,,,JACK,142345,25464.84
+,,,Helmand PW,99416,,,,Medicine-FP,26800,0,,,OHPM,4836490,537193.66
+,,,Herat PW,467781,,,,Medicine-HII,150452,10940,,,,,
+,,,Kabul PW,406,,,,Nutration,36,0,,,,,
+,,,Kandahar PW,2853.6,,,,Others,86,56613,,,,,
+,,,Nangarhar PW,3056.84,,,,Grand Total,7729380,761999.6,,,,,
+,,,Grand Total,609288.44,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+Donor,AFN,USD,,Donor,Stock,,,,,,,,,,
+UNFPA,0,212,,UNFPA,400,,,,,,,,,,
+UNICEF,28806,259467.14,,UNICEF,3552564,,,Row Labels,Stock,Price,,,,,
+World Bank,0,464662.46,,World Bank,4111195,,,Bamiyan PW,608756,67789,,,,,
+,,,,,,,,Ghazni PW,420,466,,,,,
+,,,,,,,,Ghor PW,2137529,123234,,,,,
+,,,,,,,,Helmand PW,2832968,325995,,,,,
+,,,,,,,,Herat PW,2003522,211199,,,,,
+,,,,,,,,Kabul PW,4260,8319,,,,,
+,,,,,,,,Kandahar PW,10378,1375,,,,,
+,,,,,,,,Nangarhar PW,131547,23624,,,,,
